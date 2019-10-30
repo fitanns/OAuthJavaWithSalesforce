@@ -31,7 +31,7 @@ public class OAuthSalesforce extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 
 	private static final String access_Token = "ACCESS_TOKEN";
-
+//
 	private String consumerKey = "3MVG96_7YM2sI9wQH_AWszGz5FS52NzjPqH9XJer04D9F8oneWt34ZSH4VknKFnQFW5ASVtcUcYSo2bEl9yIw";
 	private String consumerSecret = "3B3E21D393667500272CB7B3A7574E791088A6FE19236CB6B8D8E79E2367DACA";
 	private String redirectUri = "https://localhost:8443/TestOauth/oauth/call";

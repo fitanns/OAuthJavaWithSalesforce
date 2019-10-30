@@ -7,12 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d984982-2624-4429-a404-f5493f9a4285" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/TestOauth_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/TestOauth_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOauth.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TestOauth.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/maven/TestOauth/TestOauth/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/maven/TestOauth/TestOauth/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/maven/TestOauth/TestOauth/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/maven/TestOauth/TestOauth/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OAuthSalesforce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OAuthSalesforce.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -216,7 +211,7 @@
       <option name="presentableId" value="Default" />
       <updated>1571304512257</updated>
       <workItem from="1571304519654" duration="155000" />
-      <workItem from="1572444050367" duration="4827000" />
+      <workItem from="1572444050367" duration="5447000" />
     </task>
     <servers />
   </component>
